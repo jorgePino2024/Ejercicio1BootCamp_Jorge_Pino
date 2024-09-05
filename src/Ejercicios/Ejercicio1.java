@@ -1,6 +1,6 @@
 package Ejercicios;
 
-public class SumaDeDosNumeros {
+public class Ejercicio1 {
     public static void main(String[] args) {
         // Declarar dos números
         int numero1 = 10;
